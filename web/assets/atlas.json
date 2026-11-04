@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "name": "MZ Los Santos Atlas",
+  "source": "https://github.com/RiceaRaul/gta-v-map-leaflet",
+  "license": "MIT (upstream project declaration)",
+  "licenseUrl": "https://github.com/RiceaRaul/gta-v-map-leaflet/blob/main/LICENSE",
+  "attribution": "GTA V map artwork is property of Rockstar Games. Community atlas integration by RiceaRaul; local optimization by MZ Framework.",
+  "sourceAssetSha256": "341CE065553E4581F784F9F52FAE5EACFC045178FDD6BE753E01E133899C032A",
+  "assetSha256": "A53486DB172F85880013F0413037A6C5356B5657CC7A7723F10F7678FFFF880A",
+  "dimensions": "4096x4096",
+  "transformation": "Lanczos downscale, reduced saturation and brightness; no geographic crop",
+  "generatedAt": "2026-10-21"
+}
